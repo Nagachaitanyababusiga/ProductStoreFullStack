@@ -23,3 +23,4 @@ This application demonstrates the power of a full-stack implementation, showcasi
 2. Enjoy browsing the product catalog and experience the features!  
 
 Feel free to share your feedback or report issues. Your input will help enhance the application further. 😊  
+
